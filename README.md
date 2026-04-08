@@ -1,10 +1,8 @@
-<p <h1 align="center"><a href="Gemini_Generated_Image_a0n1s9a0n1s9a0n1 (1).png
-"><img width="80%" src="<img width="4128" height="1024" alt="Gemini_Generated_Image_20ns7m20ns7m20ns" src=Gemini_Generated_Image_a0n1s9a0n1s9a0n1 (1).png" />
-" /></h1></a></p>
+<p <h1 align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/github-header-image.png" /></h1></a></p>
 <h1 align="center"> </h1>
 
 <h3 align="center">A self-taught Data Science Enthusiast from India </h3>
-<h3 align="center"> Aspiring Data Analyst</h3>
+<h3 align="center"> Data Analyst at Kapitus</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
