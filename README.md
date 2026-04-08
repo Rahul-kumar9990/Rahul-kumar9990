@@ -16,18 +16,7 @@
 <a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="https://bio.link/AnkitGupta" height="20" width="90" /></a>
 <a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
 
-<!--
-Banner code
-<br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-OR
-    ![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
- </abc>
- -->
-
-### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
-
-- 👨‍💻 All about me is at [My Website](https://bio.link/AnkitGupta)
+### Liked my Contributions:question:[Follow Me](https://github.com/Rahul-kumar9990):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
 
 - 🔭 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
 
