@@ -31,19 +31,15 @@ OR
 
 - 🔭 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
 
-- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence 
-
-- 📝 Sometimes I write articles on [Medium](https://medium.com/@mrankitgupta)
-
-- 🏆 Finalist of "Startup India Innovation Challenge 2018"
+- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
 
 - 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
 
-- 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/MrAnkitGupta)
+- 📄 Know about my work & experiences [My Resume](www.linkedin.com/in/honestreply9990)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/MrAnkitGupta) / [Twitter](https://twitter.com/MrAnkitGupta_) / [Instagram](www.instagram.com/MrAnkitGupta_)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/honestreply9990) / [Twitter](https://x.com/honestreply9990) / [Instagram](www.instagram.com/honestreply9990)
 
-- ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
+- ⚡ Fun fact:"When I'm not building projects, I enjoy diving into Hollywood cinema."
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
