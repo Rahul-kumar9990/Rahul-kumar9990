@@ -34,7 +34,7 @@
 
 <code>[Titanic Survival Prediction: Machine Learning Model](https://github.com/mrankitgupta/titanic-survival-prediction-93-xgboost)</code> 👨‍💻 
 
-<code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
+<code>[Data Analyst Roadmap for Beginer](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
 
 <code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
 
