@@ -18,7 +18,7 @@
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/Rahul-kumar9990):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
 
-- 🔭 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
+- 🔭 I’m currently working on Data Analytics, Python,  & Statistics
 
 - 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
 
