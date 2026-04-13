@@ -8,11 +8,11 @@
 
 <!-- <a href="mailto: " target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=" " height="20" width="85" /></a> -->
 
-<a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
-<a href="https://www.instagram.com/MrAnkitGupta_/" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_/" alt="MrAnkitGupta_" height="20" width="110" /></a>
+<a href="https://www.linkedin.com/in/honestreply9990" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/honestreply9990/" alt="RahulKumar" height="20" width="100" /></a>
+<a href="/" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/honestreply9990//" alt="RahulKumar" height="20" width="110" /></a>
  
 
-### Liked my Contributions:question:[Follow Me](https://github.com/Rahul-kumar9990)  : point_right : [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
+### Liked my Contributions:question:[Follow Me](https://github.com/Rahul-kumar9990)  :point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
 
 - 🔭 I’m currently working on Data Analytics, Python,  & Statistics
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
 
-- 📄 Know about my work & experiences [My Resume](www.linkedin.com/in/honestreply9990)
+- 📄 Know about my work & experiences [My linkedin](www.linkedin.com/in/honestreply9990)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/honestreply9990) / [Twitter](https://x.com/honestreply9990) / [Instagram](www.instagram.com/honestreply9990)
 
