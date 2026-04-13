@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/MrAnkitGupta_/" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_/" alt="MrAnkitGupta_" height="20" width="110" /></a>
  
 
-### Liked my Contributions:question:[Follow Me](https://github.com/Rahul-kumar9990)  :point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
+### Liked my Contributions:question:[Follow Me](https://github.com/Rahul-kumar9990)  : point_right : [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
 
 - 🔭 I’m currently working on Data Analytics, Python,  & Statistics
 
@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact:"When I'm not building projects, I enjoy diving into Hollywood cinema."
 
-<h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
+<h3 align="left"> What are my featured projects:question: 👨‍💻 🛰️ </h3>
 
 <code>[Titanic Survival Prediction: Machine Learning Model](https://github.com/mrankitgupta/titanic-survival-prediction-93-xgboost)</code> 👨‍💻 
 
@@ -45,16 +45,7 @@
 
 - [Data Analysis](https://github.com/mrankitgupta) & [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
 
-- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle, [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
-
 - [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
-
-- [Data Visualization with Tableau](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion) - by Simplilearn
-
-- [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/certificate/CY9V466RB36R) - by PWC
-
 
  
 <h3 align="left">Connect with me 🔗</h3>
@@ -107,24 +98,12 @@
 <a href="https://instagram.com/Lens_Killer_Ankit" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   
 </p>
 
-<details>
-<summary>
-More stuff about me 👨‍⚖️ 👇
-</summary>
 
-<br >
 
-<h3 align="left">Awards and Achievements 🏆 </h3>
 
-- Finalist of "Startup India Innovation Challenge 2018"
 
-- 1st Runner-up in Paradolia – Photography competition
 
-<!--
-<h3 align="left">Wanna see my blogs:question: 📝</h3>
-<!-- BLO-POST-LIST:START -->
 
-<!-- BLO-POST-LIST:END -->
     
 <h3 align="left">Github Stats 📊 </h3>
 
@@ -136,33 +115,11 @@ More stuff about me 👨‍⚖️ 👇
 <h3 align="left">Support 👐</h3>
 <p><a href="https://www.buymeacoffee.com/mrankitgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrankitgupta" /></a></p><br><br>
 
-<br >
-</details>
 
 
 
 
-<!--
-**mrankitgupta/mrankitgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-➡️ [more blog posts...](https://ankitgupta.com)
 
----
 
-Here are some ideas to get you started:
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
-
-[![Ankit's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&)](https://github.com/mrankitgupta)
-
-[![Website Badge](https://img.shields.io/badge/-ankitgupta-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ankitgupta.bio.link/)](https://ankitgupta.bio.link/)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
