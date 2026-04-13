@@ -10,10 +10,9 @@
 
 <a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
 <a href="https://www.instagram.com/MrAnkitGupta_/" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_/" alt="MrAnkitGupta_" height="20" width="110" /></a>
-<a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="https://bio.link/AnkitGupta" height="20" width="90" /></a>
-<a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
+ 
 
-### Liked my Contributions:question:[Follow Me](https://github.com/Rahul-kumar9990):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
+### Liked my Contributions:question:[Follow Me](https://github.com/Rahul-kumar9990)  :point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
 
 - 🔭 I’m currently working on Data Analytics, Python,  & Statistics
 
