@@ -82,13 +82,7 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
 
   
-<h3 align="left">Github Stats 📊 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULKUMAR&layout=compact)](https://github.com/Rahul-kumar9990)
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulKumar&show_icons=true)](https://github.com/Rahul-kumar9990)
-
-[![Rahul's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&)](https://github.com/Rahul-kumar9990)
-    
 
 
 
