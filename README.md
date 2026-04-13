@@ -1,4 +1,4 @@
-<p <h1 align="center">https://www.linkedin.com/in/honestreply9990<a href=><img width="80%" src="https://github.com/Rahul-kumar9990/Rahul-kumar9990/blob/main/Gemini_Generated_Image_a0n1s9a0n1s9a0n1%20(1).png" /></h1></a></p>
+<p <h1 align="center"><a href=><img width="80%" src="https://github.com/Rahul-kumar9990/Rahul-kumar9990/blob/main/Gemini_Generated_Image_a0n1s9a0n1s9a0n1%20(1).png" /></h1></a></p>
 <h1 align="center"> </h1>
 
 <h3 align="center"></h3>
