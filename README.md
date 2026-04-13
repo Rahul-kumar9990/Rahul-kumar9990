@@ -4,10 +4,7 @@
 <h3 align="center"></h3>
 <h3 align="center">Driven and analytical Data Analyst, leveraging expertise in Excel, Power BI, Tableau and SQL to transform data into actionable insights. Proven ability to gather, clean, analyze, and visualize data to support informed decision-making across various business functions. Possesses strong analytical skills, excellent communication, and a passion for extracting hidden value from information.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
-
-<p align="left"> <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
+<p align="left"> <a href="https://x.com/honestreply9990" target="blank"><img src="https://img.shields.io/twitter/follow/RAHULKUMAR_?logo=twitter&style=for-the-badge" alt="RAHULKUMAR" /></a> </p>
 
 <!-- <a href="mailto: " target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=" " height="20" width="85" /></a> -->
 
