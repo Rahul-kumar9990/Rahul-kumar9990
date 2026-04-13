@@ -84,10 +84,10 @@
   
 <h3 align="left">Github Stats 📊 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrankitgupta&layout=compact)](https://github.com/mrankitgupta)
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta&show_icons=true)](https://github.com/mrankitgupta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULKUMAR&layout=compact)](https://github.com/Rahul-kumar9990)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulKumar&show_icons=true)](https://github.com/Rahul-kumar9990)
 
-[![Ankit's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&)](https://github.com/mrankitgupta)
+[![Rahul's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&)](https://github.com/Rahul-kumar9990)
     
 
 
