@@ -58,7 +58,7 @@
 <a href="https://www.hackerrank.com/MrAnkitGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
 
 
-<a href="https://www.quora.com/profile/Ankit-Gupta-1154" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/9a416e5bb1093b13204a0e47d7f7fb3af2c39028/quora-logo-2439.svg" alt="Ankit-Gupta-1154" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/channel/UCTfbz-dvkBt3K5se21uj-ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit gupta" height="30" width="40" /></a>
 </p>
 
