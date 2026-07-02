@@ -60,7 +60,8 @@
 ## 📫 How to reach me
 - **Email**: 
 - **LinkedIn**: [https://www.linkedin.com/in/honestreply9990]
-- 
+
+ 
 <a href="https://x.com/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
 <a href="https://www.linkedin.com/in/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
 <a href="https://www.instagram.com/honestreply9990" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/honestreply9990//" alt="RahulKumar" height="20" width="110"/></a>
