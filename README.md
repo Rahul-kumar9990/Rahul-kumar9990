@@ -2,6 +2,7 @@
 <h1 align="center"> </h1>
 
 
+
 ## 🚀 About Me
 
 **Aspiring Data Analyst, leveraging expertise in Excel, Power BI, Tableau and SQL to transform data into actionable insights. Proven ability to gather, clean, analyze, and visualize data to support informed decision-making across various business functions. Possesses strong analytical skills, excellent communication, and a passion for extracting hidden value from information.**
