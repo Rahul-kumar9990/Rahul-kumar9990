@@ -62,7 +62,7 @@
 ✨ *Feel free to explore my repositories and connect with me!* 
 
 
-<a href="https://x.com/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-000000?style=flat-square&labelColor=000000&logo=Twitter&logoColor=white&link=https://x.com/honestreply9990/" alt="RahulKumar" height="20" width="110"/></a>
+<a href="https://x.com/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
 
 
 <a href="https://www.linkedin.com/in/honestreply9990" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/honestreply9990/" alt="RahulKumar" height="20" width="100"/></a>
