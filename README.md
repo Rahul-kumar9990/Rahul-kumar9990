@@ -16,7 +16,7 @@
 
 -  Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
 
--  Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
+-  Ask me about ``` [ "Python", "SQL", "Statistics", "Tableau","Power Bi", "Advanced Excel" , "Data Analytics" ] ```
 
 -  Know about my work & experiences [My linkedin](www.linkedin.com/in/honestreply9990)
 
