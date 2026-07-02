@@ -12,33 +12,31 @@
 
 ### Liked my Contributions :question: [Follow Me](https://github.com/Rahul-kumar9990)  :point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
 
-- 🔭 I’m currently working on Data Analytics, Python,  & Statistics
+-  I’m currently working on Data Analytics, Python,  & Statistics
 
-- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
+-  Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
 
-- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
+-  Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
 
-- 📄 Know about my work & experiences [My linkedin](www.linkedin.com/in/honestreply9990)
+-  Know about my work & experiences [My linkedin](www.linkedin.com/in/honestreply9990)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/honestreply9990) / [Twitter](https://x.com/honestreply9990) / [Instagram](www.instagram.com/honestreply9990)
+-  How to reach me: [LinkedIn](https://www.linkedin.com/in/honestreply9990) / [Twitter](https://x.com/honestreply9990) / [Instagram](www.instagram.com/honestreply9990)
 
 - ⚡ Fun fact:"When I'm not building projects, I enjoy diving into Hollywood cinema."
 
-<h3 align="left"> What are my featured projects:question: 👨‍💻 🛰️ </h3>
+<h3 align="left"> What are my featured projects:question: </h3>
 
-<code>[RetailPulse-Customer Analytics & Relational SQL Pipeline](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)</code> 👨‍💻 
+<code>[RetailPulse-Customer Analytics & Relational SQL Pipeline](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)</code>  
 
-<code>[MarketLens-Consumer Spending and Engagement Dashboard](https://github.com/Rahul-kumar9990/MarketLens-Consumer-Spending-and-Engagement-Dashboard)</code> 📊
+<code>[MarketLens-Consumer Spending and Engagement Dashboard](https://github.com/Rahul-kumar9990/MarketLens-Consumer-Spending-and-Engagement-Dashboard)</code> 
 
-<code>[GeoInsights-Regional Sales Analytics and BI Dashboard](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard)</code>  👨‍💻 
+<code>[GeoInsights-Regional Sales Analytics and BI Dashboard](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard)</code>   
 
 <code>[Dining Demand & Revenue Optimizer](https://github.com/Rahul-kumar9990/Dining-Demand-Revenue-Optimizer)</code> 📊
 
-<h3 align="left">My Certifications 📜 🎓 ✔️</h3>
+<h3 align="left">My Certifications 🎓 </h3>
 
-- [Data Analysis](https://github.com/mrankitgupta) & [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
+- [Data Analytics with AI Tools] - by Coding Blocks
 
  
 <h3 align="left">Connect with me 🔗</h3>
