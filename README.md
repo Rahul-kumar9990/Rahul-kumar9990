@@ -1,21 +1,14 @@
 <p <h1 align="center"><a href=><img width="80%" src="https://github.com/Rahul-kumar9990/Rahul-kumar9990/blob/main/Gemini_Generated_Image_a0n1s9a0n1s9a0n1%20(1).png" /></h1></a></p>
 <h1 align="center"> </h1>
 
-<h3 align="center"></h3>
-<h3 align="center">Aspiring Data Analyst, leveraging expertise in Excel, Power BI, Tableau and SQL to transform data into actionable insights. Proven ability to gather, clean, analyze, and visualize data to support informed decision-making across various business functions. Possesses strong analytical skills, excellent communication, and a passion for extracting hidden value from information.</h3>
- 
 
-### Liked my Contributions :question: [Follow Me](https://github.com/Rahul-kumar9990)  :point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) 
+## 🚀 About Me
 
--  Ask me about ``` [ "Python", "SQL", "Statistics", "Tableau","Power Bi", "Advanced Excel" , "Data Analytics" ] ```
+**Aspiring Data Analyst, leveraging expertise in Excel, Power BI, Tableau and SQL to transform data into actionable insights. Proven ability to gather, clean, analyze, and visualize data to support informed decision-making across various business functions. Possesses strong analytical skills, excellent communication, and a passion for extracting hidden value from information.**
 
--  Know about my work & experiences [My linkedin](www.linkedin.com/in/honestreply9990)
 
--  How to reach me: [LinkedIn](https://www.linkedin.com/in/honestreply9990) / [Twitter](https://x.com/honestreply9990) / [Instagram](www.instagram.com/honestreply9990)
 
-- ⚡ Fun fact:"When I'm not building projects, I enjoy diving into Hollywood cinema."
-
-<h3 align="left"> What are my featured projects:question: </h3>
+## **Some Of My Featured Projects:**
 
 <code>[RetailPulse-Customer Analytics & Relational SQL Pipeline](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)</code>  
 
@@ -23,48 +16,58 @@
 
 <code>[GeoInsights-Regional Sales Analytics and BI Dashboard](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard)</code>   
 
-<code>[Dining Demand & Revenue Optimizer](https://github.com/Rahul-kumar9990/Dining-Demand-Revenue-Optimizer)</code> 📊
+<code>[Dining Demand & Revenue Optimizer](https://github.com/Rahul-kumar9990/Dining-Demand-Revenue-Optimizer)</code> 
 
-<h3 align="left">My Certifications 🎓 </h3>
+## **🛠️ SKILLS & TOOLS**
 
-- [Data Analytics with AI Tools] - by Coding Blocks
+**• Programming & Databases: Python (NumPy, Pandas), SQL, C++.**
 
- 
-<h3 align="left">Connect with me 🔗</h3>
-<p align="left">
+**• Data Visualization & BI Tools: Power BI, Tableau, Microsoft Excel (Pivot Tables, Power Query), Matplotlib,
+Seaborn**
 
-<a href="https://twitter.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
-<a href="https://instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
-<a href="https://kaggle.com/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrankitgupta" height="30" width="40" /></a>
-<a href="https://leetcode.com/MrAnkitGupta_" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/leetcode.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/MrAnkitGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
+**• Core Concepts: Exploratory Data Analysis (EDA), Data Cleaning Wrangling, Data Structures & Algorithms,
+Object-Oriented Programming (OOP).**
+
+**• Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Google Colab**
+
+**• Reporting & Presentation: Technical Documentation, Executive Dashboard Design, Stakeholder Presentation,
+Data Storytelling, Business Report Generation**
 
 
-<h3 align="left">Languages and Tools 🛠️ </h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="40" height="40"/> </a>  
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/icons8-jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
 
-✨ Feel free to explore my repositories and connect with me!
+## **🎓 My Certifications**
+
+**- Data Analytics with AI Tools - by Coding Blocks**
+
+
+
+
+## **🛠️ Check My Problem Solving Platform Pofiles** 
+
+<a href="https://leetcode.com/YOUR_USERNAME" target="_blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="20" width="110"/></a>
+<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-107C41?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" height="20" width="110"/></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME" target="_blank"><img align="center" src="https://img.shields.io/badge/-GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GFG" height="20" width="110"/></a>
+<a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" height="20" width="110"/></a>
+<a href="https://public.tableau.com/app/profile/YOUR_USERNAME" target="_blank"><img align="center" src="https://img.shields.io/badge/-Tableau-E97628?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="20" width="110"/></a>
+
 
 
 ## 📫 How to reach me
-- **Email**: 
-- **LinkedIn**: [https://www.linkedin.com/in/honestreply9990]
+- **Email**:
+- **LinkedIn**:
 
- 
-<a href="https://x.com/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
+
+
+
+
+## **My Social Media Hanldes:**
+
 <a href="https://www.linkedin.com/in/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
+<a href="https://x.com/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
 <a href="https://www.instagram.com/honestreply9990" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/honestreply9990//" alt="RahulKumar" height="20" width="110"/></a>
+
+
+## ✨ **Feel free to explore my repositories and connect with me!**
 
 
 
