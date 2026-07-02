@@ -26,18 +26,13 @@
 
 <h3 align="left"> What are my featured projects:question: 👨‍💻 🛰️ </h3>
 
-<code>[Titanic Survival Prediction: Machine Learning Model](https://github.com/mrankitgupta/titanic-survival-prediction-93-xgboost)</code> 👨‍💻 
+<code>[RetailPulse-Customer Analytics & Relational SQL Pipeline](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)</code> 👨‍💻 
 
-<code>[Data Analyst Roadmap for Beginer](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
+<code>[MarketLens-Consumer Spending and Engagement Dashboard](https://github.com/Rahul-kumar9990/MarketLens-Consumer-Spending-and-Engagement-Dashboard)</code> 📊
 
-<code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
+<code>[GeoInsights-Regional Sales Analytics and BI Dashboard](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard)</code>  👨‍💻 
 
-<code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
-
-<code>[Library Management System using Python on Django](https://github.com/mrankitgupta/Library_Management_System_Django)</code>  👨‍💻 
-
-<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
-
+<code>[Dining Demand & Revenue Optimizer](https://github.com/Rahul-kumar9990/Dining-Demand-Revenue-Optimizer)</code> 📊
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
