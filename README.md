@@ -54,16 +54,11 @@
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
 
-✨ *Feel free to explore my repositories and connect with me!* 
+✨ Feel free to explore my repositories and connect with me!
 
 
 <a href="https://x.com/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
-
-<a href="https://www.linkedin.com/in/honestreply9990" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-D7008A?style=flat-square&labelColor=D7008A&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/honestreply9990/" alt="RahulKumar" height="20" width="100"/></a>
-
 <a href="https://www.linkedin.com/in/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
-
-
 <a href="https://www.instagram.com/honestreply9990" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/honestreply9990//" alt="RahulKumar" height="20" width="110"/></a>
 
 
