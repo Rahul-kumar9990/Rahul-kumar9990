@@ -54,8 +54,8 @@ Data Storytelling, Business Report Generation**
 
 
 ## 📫 How to reach me
-- **Email**:
-- **LinkedIn**:
+- **Email**: rahul.gupta37841@gmail.com
+- **LinkedIn**:www.linkedin.com/in/honestreply9990
 
 
 
